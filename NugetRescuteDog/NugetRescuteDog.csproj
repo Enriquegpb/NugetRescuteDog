@@ -9,6 +9,7 @@
     <Description>Este Nuget es para la migracion de servicios del proyecto RescuteDog.</Description>
     <PackageIcon>footprint_icon_187971.png</PackageIcon>
     <Authors>Enrique García-Palacios</Authors>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
